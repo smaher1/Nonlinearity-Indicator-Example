@@ -1,4 +1,4 @@
-# test2
+# Nonlinearity indicator example
 # Author: Sean Maher
 # Date: April 2020
 
